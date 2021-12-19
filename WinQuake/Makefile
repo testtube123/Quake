@@ -25,8 +25,8 @@ ARCH=i386
 endif
 NOARCH=noarch
 
-MOUNT_DIR=~/Coding/C/Quake/WinQuake
-ASM_DIR=~/Coding/C/Quake/WinQuake/asm
+MOUNT_DIR=$(HOME)/Coding/C/Quake/WinQuake
+ASM_DIR=$(HOME)/Coding/C/Quake/WinQuake/asm
 MASTER_DIR=/grog/Projects/QuakeMaster
 GL_DIR=/usr/
 
