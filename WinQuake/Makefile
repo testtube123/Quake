@@ -27,7 +27,7 @@ NOARCH=noarch
 
 MOUNT_DIR=$(HOME)/Coding/C/Quake/WinQuake
 ASM_DIR=$(HOME)/Coding/C/Quake/WinQuake/asm
-MASTER_DIR=/grog/Projects/QuakeMaster
+#MASTER_DIR=/grog/Projects/QuakeMaster
 GL_DIR=/usr/
 
 BUILD_DEBUG_DIR=debug$(ARCH)$(GLIBC)
